@@ -19,6 +19,6 @@ Simulated annealing is inspired by physical annealing:
     change in ductility and hardness." (Wikipedia: https://en.wikipedia.org/wiki/Annealing_(metallurgy))
 
 Here we use a simulated temperature to allow a high level of exploration of the local state space at the beginning
-of the the process, gradually lowering the temperature and thus the amount of exploration until finally reaching
-a solution.  The result is to avoid getting stuck in local minima, and find global minima with a fairly
-high degree of reliability, offering both efficiency and completeness (finds a goal if it exists).
+of the process, gradually lowering the temperature and thus the amount of exploration until finally reaching
+a solution.  The result is that we avoid getting stuck in local minima, and find global minima with a fairly
+high degree of reliability.  Simulated annealing offers both efficiency and completeness (finds a goal if it exists).
