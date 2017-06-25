@@ -3,6 +3,7 @@ Travelling Salesman Using Simulated Annealing
 #############################################
 
 v1.0 25 June 2017 Robert Crowe
+Python 3
 
 This is an implementation of a solution to the travelling salesman problem using simulated annealing.  This
 was written as an optional exercise for the Udacity Artificial Intelligence Nanodegree, for the unit discussing
